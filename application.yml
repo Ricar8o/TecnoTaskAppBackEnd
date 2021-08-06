@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://ricardo:ZJsSFRwr7TZcW7A@cluster0.memte.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
